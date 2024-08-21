@@ -1,0 +1,6 @@
+pip install ucimlrepo
+pip install pandas
+pip install imbalanced-learn
+pip install matplotlib
+pip install seaborn
+pip install pandas-profiling
